@@ -1,2 +1,2 @@
-# Veri_tabani
+# HYS
 Veri Tabanında Klips Bilgileri
